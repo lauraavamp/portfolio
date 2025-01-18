@@ -3,12 +3,31 @@
     <title>Lauraavamp Portfolio</title>
     <link href="https://lauraavamp.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://lauraavamp.github.io/portfolio" />
-    <updated>2025-01-17T23:32:33+01:00</updated>
+    <updated>2025-01-18T11:32:31+01:00</updated>
     <author>
         <name>ʟᴀᴜʀᴀ ᴍᴀɴᴢᴀɴᴏ ʟᴏᴘᴇᴢ</name>
     </author>
     <id>https://lauraavamp.github.io/portfolio</id>
 
+    <entry>
+        <title>ABOUT ME</title>
+        <author>
+            <name>ʟᴀᴜʀᴀ ᴍᴀɴᴢᴀɴᴏ ʟᴏᴘᴇᴢ</name>
+        </author>
+        <link href="https://lauraavamp.github.io/portfolio/about-me.html"/>
+        <id>https://lauraavamp.github.io/portfolio/about-me.html</id>
+
+        <updated>2025-01-18T11:32:31+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>CLOTHES</title>
         <author>
@@ -130,13 +149,13 @@
         </author>
         <link href="https://lauraavamp.github.io/portfolio/ilustration.html"/>
         <id>https://lauraavamp.github.io/portfolio/ilustration.html</id>
-        <media:content url="https://lauraavamp.github.io/portfolio/media/posts/23/laura_vamp_ilustraciones_4.png" medium="image" />
+        <media:content url="https://lauraavamp.github.io/portfolio/media/posts/23/laura_vamp_ilustraciones_6.png" medium="image" />
 
         <updated>2025-01-17T23:18:53+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://lauraavamp.github.io/portfolio/media/posts/23/laura_vamp_ilustraciones_4.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://lauraavamp.github.io/portfolio/media/posts/23/laura_vamp_ilustraciones_6.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
     
@@ -172,25 +191,6 @@
         <id>https://lauraavamp.github.io/portfolio/mix-paintings.html</id>
 
         <updated>2025-01-17T23:18:31+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>ACRYLIC PAINTING</title>
-        <author>
-            <name>ʟᴀᴜʀᴀ ᴍᴀɴᴢᴀɴᴏ ʟᴏᴘᴇᴢ</name>
-        </author>
-        <link href="https://lauraavamp.github.io/portfolio/acrylic-paintings.html"/>
-        <id>https://lauraavamp.github.io/portfolio/acrylic-paintings.html</id>
-
-        <updated>2025-01-17T23:18:01+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
