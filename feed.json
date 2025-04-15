@@ -105,7 +105,7 @@
             "id": "https://lauraavamp.github.io/portfolio/ilustration.html",
             "url": "https://lauraavamp.github.io/portfolio/ilustration.html",
             "title": "ILUSTRATION",
-            "content_html": "\n  <p>\n    \n  </p>",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://lauraavamp.github.io/portfolio/media/posts/23/sirena_piscis_tattoo_comprimido.jpg\" height=\"4080\" width=\"2296\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://lauraavamp.github.io/portfolio/media/posts/23/responsive/sirena_piscis_tattoo_comprimido-xs.jpg 300w ,https://lauraavamp.github.io/portfolio/media/posts/23/responsive/sirena_piscis_tattoo_comprimido-sm.jpg 480w ,https://lauraavamp.github.io/portfolio/media/posts/23/responsive/sirena_piscis_tattoo_comprimido-md.jpg 768w ,https://lauraavamp.github.io/portfolio/media/posts/23/responsive/sirena_piscis_tattoo_comprimido-lg.jpg 1024w\">\n      \n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"\" height=\"\" width=\"\" alt=\"\"  data-is-external-image=\"true\">\n      \n    </figure>",
             "image": "https://lauraavamp.github.io/portfolio/media/posts/23/laura_vamp_ilustraciones_8.png",
             "author": {
                 "name": "ʟᴀᴜʀᴀ ᴍᴀɴᴢᴀɴᴏ ʟᴏᴘᴇᴢ"
@@ -113,7 +113,7 @@
             "tags": [
             ],
             "date_published": "2025-01-17T23:18:53+01:00",
-            "date_modified": "2025-01-18T11:48:37+01:00"
+            "date_modified": "2025-04-16T01:05:22+02:00"
         },
         {
             "id": "https://lauraavamp.github.io/portfolio/drawing.html",
@@ -132,14 +132,15 @@
             "id": "https://lauraavamp.github.io/portfolio/mix-paintings.html",
             "url": "https://lauraavamp.github.io/portfolio/mix-paintings.html",
             "title": "MIX PAINTING",
-            "content_html": "\n  <p>\n    \n  </p>",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://lauraavamp.github.io/portfolio/media/posts/21/IMG_20250115_135631-min-2.jpg\" height=\"2549\" width=\"2534\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://lauraavamp.github.io/portfolio/media/posts/21/responsive/IMG_20250115_135631-min-2-xs.jpg 300w ,https://lauraavamp.github.io/portfolio/media/posts/21/responsive/IMG_20250115_135631-min-2-sm.jpg 480w ,https://lauraavamp.github.io/portfolio/media/posts/21/responsive/IMG_20250115_135631-min-2-md.jpg 768w ,https://lauraavamp.github.io/portfolio/media/posts/21/responsive/IMG_20250115_135631-min-2-lg.jpg 1024w\">\n      \n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://lauraavamp.github.io/portfolio/media/posts/21/IMG_20231215_152717-min.jpg\" height=\"2193\" width=\"1559\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://lauraavamp.github.io/portfolio/media/posts/21/responsive/IMG_20231215_152717-min-xs.jpg 300w ,https://lauraavamp.github.io/portfolio/media/posts/21/responsive/IMG_20231215_152717-min-sm.jpg 480w ,https://lauraavamp.github.io/portfolio/media/posts/21/responsive/IMG_20231215_152717-min-md.jpg 768w ,https://lauraavamp.github.io/portfolio/media/posts/21/responsive/IMG_20231215_152717-min-lg.jpg 1024w\">\n      \n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://lauraavamp.github.io/portfolio/media/posts/21/IMG_20231218_120023-min.jpg\" height=\"2046\" width=\"1469\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://lauraavamp.github.io/portfolio/media/posts/21/responsive/IMG_20231218_120023-min-xs.jpg 300w ,https://lauraavamp.github.io/portfolio/media/posts/21/responsive/IMG_20231218_120023-min-sm.jpg 480w ,https://lauraavamp.github.io/portfolio/media/posts/21/responsive/IMG_20231218_120023-min-md.jpg 768w ,https://lauraavamp.github.io/portfolio/media/posts/21/responsive/IMG_20231218_120023-min-lg.jpg 1024w\">\n      \n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://lauraavamp.github.io/portfolio/media/posts/21/Picsart_24-05-07_18-21-05-058-min.jpg\" height=\"1714\" width=\"2324\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://lauraavamp.github.io/portfolio/media/posts/21/responsive/Picsart_24-05-07_18-21-05-058-min-xs.jpg 300w ,https://lauraavamp.github.io/portfolio/media/posts/21/responsive/Picsart_24-05-07_18-21-05-058-min-sm.jpg 480w ,https://lauraavamp.github.io/portfolio/media/posts/21/responsive/Picsart_24-05-07_18-21-05-058-min-md.jpg 768w ,https://lauraavamp.github.io/portfolio/media/posts/21/responsive/Picsart_24-05-07_18-21-05-058-min-lg.jpg 1024w\">\n      \n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://lauraavamp.github.io/portfolio/media/posts/21/IMG_20250115_135054-min.jpg\" height=\"2684\" width=\"2674\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://lauraavamp.github.io/portfolio/media/posts/21/responsive/IMG_20250115_135054-min-xs.jpg 300w ,https://lauraavamp.github.io/portfolio/media/posts/21/responsive/IMG_20250115_135054-min-sm.jpg 480w ,https://lauraavamp.github.io/portfolio/media/posts/21/responsive/IMG_20250115_135054-min-md.jpg 768w ,https://lauraavamp.github.io/portfolio/media/posts/21/responsive/IMG_20250115_135054-min-lg.jpg 1024w\">\n      \n    </figure>",
+            "image": "https://lauraavamp.github.io/portfolio/media/posts/21/IMG_20250115_135631-min.jpg",
             "author": {
                 "name": "ʟᴀᴜʀᴀ ᴍᴀɴᴢᴀɴᴏ ʟᴏᴘᴇᴢ"
             },
             "tags": [
             ],
             "date_published": "2025-01-17T23:18:31+01:00",
-            "date_modified": "2025-01-17T23:19:22+01:00"
+            "date_modified": "2025-04-16T01:09:07+02:00"
         }
     ]
 }
